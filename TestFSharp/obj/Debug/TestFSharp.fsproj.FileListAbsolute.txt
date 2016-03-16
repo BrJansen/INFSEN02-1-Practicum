@@ -1,0 +1,16 @@
+c:\users\brian\documents\visual studio 2015\Projects\TestFSharp\TestFSharp\bin\Debug\TestFSharp.exe.config
+c:\users\brian\documents\visual studio 2015\Projects\TestFSharp\TestFSharp\bin\Debug\TestFSharp.XML
+c:\users\brian\documents\visual studio 2015\Projects\TestFSharp\TestFSharp\bin\Debug\TestFSharp.exe
+c:\users\brian\documents\visual studio 2015\Projects\TestFSharp\TestFSharp\bin\Debug\TestFSharp.pdb
+c:\users\brian\documents\visual studio 2015\Projects\TestFSharp\TestFSharp\bin\Debug\FSharp.Core.dll
+c:\users\brian\documents\visual studio 2015\Projects\TestFSharp\TestFSharp\bin\Debug\FSharp.Core.xml
+c:\users\brian\documents\visual studio 2015\Projects\TestFSharp\TestFSharp\obj\Debug\TestFSharp.exe
+c:\users\brian\documents\visual studio 2015\Projects\TestFSharp\TestFSharp\obj\Debug\TestFSharp.pdb
+C:\Users\Brian\TestFSharp\TestFSharp\bin\Debug\TestFSharp.exe.config
+C:\Users\Brian\TestFSharp\TestFSharp\bin\Debug\TestFSharp.XML
+C:\Users\Brian\TestFSharp\TestFSharp\bin\Debug\TestFSharp.exe
+C:\Users\Brian\TestFSharp\TestFSharp\bin\Debug\TestFSharp.pdb
+C:\Users\Brian\TestFSharp\TestFSharp\bin\Debug\FSharp.Core.dll
+C:\Users\Brian\TestFSharp\TestFSharp\bin\Debug\FSharp.Core.xml
+C:\Users\Brian\TestFSharp\TestFSharp\obj\Debug\TestFSharp.exe
+C:\Users\Brian\TestFSharp\TestFSharp\obj\Debug\TestFSharp.pdb
